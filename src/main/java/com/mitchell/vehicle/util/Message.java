@@ -1,0 +1,6 @@
+package com.mitchell.vehicle.util;
+
+public enum Message {
+	SUCCESS, DUPLICATE, NOT_FOUND, FAILED, ID_REQUIRED, MODEL_REQUIRED,
+	MAKE_REQUIRED, INVALID_YEAR_1950_TO_2050;
+}
